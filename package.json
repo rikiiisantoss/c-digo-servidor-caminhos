@@ -1,0 +1,19 @@
+{
+  "name": "node_js",
+  "description": "aplicação de estudo de node.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aula",
+    "youtube"
+  ],
+  "author": "henrique-gomes",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
